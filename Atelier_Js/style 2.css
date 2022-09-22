@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: #f76c6c;
+    margin: -1rem;
+    padding: 0.3rem;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+}
+
+nav li {
+    margin: 1rem;
+    list-style: none;
+    padding: 1rem;
+}
+
+nav li:hover {
+    background-color: aliceblue;
+
+}
+
+header h1 {
+    color: #f76c6c;
+    text-align: center;
+}
+
+header {
+    background-image: url(https://i0.wp.com/greenspits.com/wp-content/uploads/2017/08/cohabitation-grimpeur-oiseaux-article-greenspits-e1503395738505.jpg?fit=848%2C398&ssl=1);
+    height: 250px;
+    background-size: cover;
+}
+
+.A h2 {
+    text-align: center;
+}
+
+.A p {
+    line-height: 1.5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 65ch;
+    margin: auto;
+}
+
+.B {
+    line-height: 1.5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 65ch;
+    margin: auto;
+}
+
+.C {
+    line-height: 1.5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 65ch;
+    margin: auto;
+}
